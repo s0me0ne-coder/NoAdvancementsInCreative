@@ -1,7 +1,7 @@
-name: Template-OG
-author: NotAlexNoyle
-description: A blank plugin for TrueOG from which to base other plugins off of.
-website: https://github.com/true-og/Template-OG/
+name: NoAdvancementsInCreative
+author: s0me0ne-coder
+description: A really simple plugin to cancel events realted to advancement progress if gamemode is creative
+website: https://github.com/s0me0ne-coder/NoAdvancementsInCreative
 version: 1.0
 api-version: 1.18
-main: plugin.TemplateOG
+main: plugin.NoAdvancementsInCreative

@@ -6,7 +6,7 @@ plugins {
 
 }
 
-group = 'net.trueog.template-og' // Declare bundle identifier.
+group = 'net.trueog.noadvancementsincreative' // Declare bundle identifier.
 version = '1.0' // Declare plugin version (will be in .jar).
 
 def apiVersion = "1.18.2" // Declare minecraft server target version.
